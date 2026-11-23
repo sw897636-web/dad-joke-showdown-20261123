@@ -10,7 +10,9 @@ Entry for the [Dad Joke Showdown bounty on make.fun](https://make.fun/bounty/u-m
 
 ## The joke
 
-> My daughter asked why I put the car in the oven. I said, 'I wanted a hot rod.'
+> My daughter asked why I put the car in the oven. I said I wanted a hot rod. She groaned, 'That joke's ancient.' I said, 'That's why it's a classic.'
+
+148 characters.
 
 ## Run
 
